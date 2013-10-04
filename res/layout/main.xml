@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+    <Button android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Send All Logs"
+            android:layout_gravity="center"
+            android:onClick="sendAllLogs">
+    </Button>
+
+    <!--<Button android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center"-->
+            <!--android:text="Send Weekly Logs"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:onClick="sendWeeklyLogs">-->
+    <!--</Button>-->
+    <!--<Button android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center"-->
+            <!--android:text="Send Daily Logs"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:onClick="sendDailyLogs">-->
+    <!--</Button>-->
+    <Button android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Delete All Logs"
+            android:layout_gravity="center"
+            android:onClick="deleteAllLogs">
+    </Button>
+
+
+</LinearLayout>
+
