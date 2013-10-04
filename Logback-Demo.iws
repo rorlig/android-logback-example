@@ -38,6 +38,7 @@
     <file path="/AppUtils.java" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380742142970" ignored="false" />
     <file path="/main.xml" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380738686711" ignored="false" />
     <file path="/Dummy.txt" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380737694126" ignored="false" />
+    <file path="/README.md" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380897171238" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,14 +135,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppUtils.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AppUtils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="94" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-0.20186335">
+            <state line="34" column="94" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4008#4016#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="38" selection-start="195" selection-end="195" vertical-scroll-proportion="0.30508474">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -204,6 +217,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/assets/logback.xml" />
         <option value="$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -734,11 +748,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="94" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-0.20186335">
+        <state line="34" column="94" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4008#4016#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="38" selection-start="195" selection-end="195" vertical-scroll-proportion="0.30508474">
+          <folding />
         </state>
       </provider>
     </entry>
