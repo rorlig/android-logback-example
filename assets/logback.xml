@@ -1,6 +1,6 @@
 <configuration>
 
-    <property name="LOG_DIR" value="/mnt/sdcard/log-test/" />
+    <property name="LOG_DIR" value="/data/data/com.rorlig.android.logbackdemo/files/log/" />
 
     <!-- Create a file appender for DEBUG-level messages -->
 

@@ -34,7 +34,7 @@
     <file path="$PROJECT_DIR$/gen/com/rorlig/android/logbackdemo/R.java" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380737856829" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/rorlig/android/logbackdemo/Manifest.java" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380737856829" ignored="false" />
     <file path="/DemoActivity.java" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380895571176" ignored="false" />
-    <file path="/logback.xml" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380663945758" ignored="false" />
+    <file path="/logback.xml" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380896683650" ignored="false" />
     <file path="/AppUtils.java" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380742142970" ignored="false" />
     <file path="/main.xml" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380738686711" ignored="false" />
     <file path="/Dummy.txt" changelist="eb71d74b-1a24-4eed-99c7-b9ebed155f4a" time="1380737694126" ignored="false" />
@@ -98,10 +98,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DemoActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DemoActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/DemoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="33" selection-start="2992" selection-end="2992" vertical-scroll-proportion="3.4347825">
+            <state line="12" column="40" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -128,19 +128,19 @@
       <file leaf-file-name="logback.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="28" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.0">
+            <state line="2" column="88" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppUtils.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppUtils.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="39" selection-start="2394" selection-end="2395" vertical-scroll-proportion="0.0">
+            <state line="34" column="94" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-0.20186335">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3977#3985#0" expanded="true" />
+                <element signature="e#4008#4016#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,18 +199,17 @@
         <option value="$PROJECT_DIR$/res/values/logback.xml" />
         <option value="$PROJECT_DIR$/res/values/assets/logback.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java" />
-        <option value="$PROJECT_DIR$/assets/logback.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/DemoActivity.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assets/logback.xml" />
+        <option value="$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
     <option name="y" value="22" />
-    <option name="width" value="1920" />
+    <option name="width" value="1440" />
     <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -566,7 +565,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="22" width="1920" height="810" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="810" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="IntelliGuard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -574,14 +573,14 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4594203" sideWeight="0.13447171" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4594203" sideWeight="0.13414635" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.54057974" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.54057974" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.66979164" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -590,7 +589,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4594203" sideWeight="0.8655283" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4594203" sideWeight="0.8651363" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -702,23 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="39" selection-start="2394" selection-end="2395" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3977#3985#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="28" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -736,10 +718,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="88" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/DemoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="33" selection-start="2992" selection-end="2992" vertical-scroll-proportion="3.4347825">
+        <state line="12" column="40" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rorlig/android/logbackdemo/AppUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="94" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-0.20186335">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4008#4016#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

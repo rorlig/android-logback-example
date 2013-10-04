@@ -24,7 +24,7 @@ import java.util.List;
 public class AppUtils {
 
     //path of the log directory
-    private static final String LOG_DIRECTORY  = "/mnt/sdcard/log-test/";
+    private static final String LOG_DIRECTORY  = "/data/data/com.rorlig.android.logbackdemo/files/log/";
     private static Logger LOG = LoggerFactory.getLogger(AppUtils.class);
 
 
